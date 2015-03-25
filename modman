@@ -1,1 +1,3 @@
-@import app/code/local/MagePal/FacebookRemarketingJs/
+# FacebookRemarketingJs module definition.
+app/code/local/MagePal/FacebookRemarketingJs app/code/local/MagePal/FacebookRemarketingJs
+app/etc/modules/MagePal_FacebookRemarketingJs.xml app/etc/modules/MagePal_FacebookRemarketingJs.xml
