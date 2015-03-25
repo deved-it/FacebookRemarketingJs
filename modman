@@ -1,3 +1,5 @@
 # FacebookRemarketingJs module definition.
 app/code/local/MagePal/FacebookRemarketingJs app/code/local/MagePal/FacebookRemarketingJs
 app/etc/modules/MagePal_FacebookRemarketingJs.xml app/etc/modules/MagePal_FacebookRemarketingJs.xml
+design/frontend/base/default/layout/magepal_facebookremarketingjs.xml design/frontend/base/default/layout/magepal_facebookremarketingjs.xml
+design/frontend/base/default/template/magepal/facebookremarketingjs/fb.phtml design/frontend/base/default/template/magepal/facebookremarketingjs/fb.phtml
