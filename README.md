@@ -20,12 +20,12 @@ If you do not have an existing Magento Composer Installer _composer.json_ file d
           },
           {
             "type": "vcs",
-            "url": "https://github.com/deved-it/magento-keen-io"
+            "url": "https://github.com/deved-it/FacebookRemarketingJs"
           }
       ],
       "require": {
           "magento-hackathon/magento-composer-installer": "*",
-          "deved/magento-keen-io": "*"
+          "deved-it/facebookremarketingjs": "*"
       },
       "extra":{
           "magento-root-dir":"./",
